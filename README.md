@@ -4,4 +4,4 @@ There are two places where you need to replace "REPLACEME" with the real okta ur
 
 run this script with node
 
-node get-okta-security-image.js <username> <browserfingerpring>
+node get-okta-security-image.js username browserfingerprint
